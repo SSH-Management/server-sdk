@@ -1,3 +1,3 @@
-module github.com/SSH-Management/server_notify
+module github.com/SSH-Management/server-sdk
 
 go 1.17

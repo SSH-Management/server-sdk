@@ -1,4 +1,4 @@
-package server_notify
+package sdk
 
 import "errors"
 
